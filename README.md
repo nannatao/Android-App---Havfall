@@ -2,7 +2,7 @@
 Appen "Havfall" som ble laget i faget IN2000 Software Engineering med prosjektarbeid ved UiO. 
 
 
-# IN2000 Prosjektoppgave - Team 27
+## IN2000 Prosjektoppgave - Team 27
 
 ## Teammedlemmer
 
